@@ -3,3 +3,7 @@ for (let i in arr){
     console.log(arr[i]);
     
 }
+var arrBB = ['A','B','C','D','E'];
+for( var k in arrBB ){
+	console.log( arrBB[k] ); 
+}
